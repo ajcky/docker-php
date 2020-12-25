@@ -1,0 +1,5 @@
+FROM devilbox/php-fpm:7.4-mods
+MAINTAINER jack
+COPY php-ext.sh /
+RUN chmod a+x /php-ext.sh \
+    && /php-ext.sh
