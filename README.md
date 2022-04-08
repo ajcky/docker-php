@@ -46,7 +46,7 @@ Creating redis1.0           ... done
 
 # 1. Mac
 sudo vi /etc/hosts
-127.0.0.1 ***.com
+127.0.0.1 test.com
 
 ```
 
