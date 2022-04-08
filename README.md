@@ -41,10 +41,12 @@ Creating docker-php_mysql_1 ... done
 Creating redis1.0           ... done
 ```
 
-
-
-
-
+## 修改本地hosts
+```
+// mac
+sudo vi /etc/hosts
+127.0.0.1 ***.com
+```
 
 
 
