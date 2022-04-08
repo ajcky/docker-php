@@ -43,7 +43,7 @@ Creating redis1.0           ... done
 
 ## 修改本地hosts
 ```
-# mac
+# 1. Mac
 sudo vi /etc/hosts
 127.0.0.1 ***.com
 ```
